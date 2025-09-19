@@ -1,12 +1,13 @@
 [
     {
-        "UpdateStageName": "Server download",
+        "UpdateStageName": "SteamCMD download",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceArgs": "3930080",
+        "UpdateSourceData": "3930080",
+        "UpdateSourceArgs": "2168680",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
-        "OneShot": false
+        "SkipOnFailure": false
     }
 ]
